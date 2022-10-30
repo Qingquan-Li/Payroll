@@ -82,6 +82,6 @@ class Employee {
     public String toString() {
         return "Employee{" + "id=" + this.id +
                 ", name='" + this.name + '\'' +
-                ", role='" + this.role + '\'' + '}';
+                ", role='" + this.role + '\'' + "}";
     }
 }
